@@ -14,6 +14,9 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 - **Records**: 200,000 rows
 - **Fields**: fare_amount, pickup/dropoff datetime, coordinates, passenger count
 
+## Loading Data  
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/loading_data.jpg?raw=true)
+
 ## 🧼 Data Cleaning
 - Handled missing values
 - Removed invalid or extreme fare amounts and coordinates
