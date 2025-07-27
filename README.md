@@ -21,8 +21,8 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 
 ## 🛠 Feature Engineering  
 
-[!img]{https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/new%20columns.jpg?raw=true
-}
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/new%20columns.jpg?raw=true
+)
 - Calculated `trip_distance` using Haversine formula
 - Extracted `pickup_hour`, `pickup_day`, `pickup_month`, and `pickup_day_of_week`
 - Created `peak_time` feature based on ride hour (e.g., 7–9 AM, 4–7 PM)
