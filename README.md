@@ -41,7 +41,8 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/peak%20vs%20off-peak.png?raw=true)
 - Over 65% of rides occur during peak hours
 
-### 🔥 Busiest Ride Times Heatmap
+### 🔥 Busiest Ride Times Heatmap  
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/heat%20map.png?raw=true)
 - Fridays between 5–7 PM show the highest ride counts
 
 ### 🌍 Pickup Location Map
