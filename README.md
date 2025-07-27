@@ -36,7 +36,26 @@ Using Python, we generated key descriptive statistics to understand the spread a
 These metrics helped us decide what data to filter and what patterns to explore deeper in Power BI.
 
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/fare%20amount%20distrib%20and%20outlier.jpg?raw=true)
-![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/outlier%20detect%20result.jpg?raw=true)
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/outlier%20detect%20result.jpg?raw=true)  
+## Outlier Detection
+
+We used the Interquartile Range (IQR) method to detect extreme values in `fare_amount`.
+
+- Q1 (25th percentile): $5.00  
+- Q3 (75th percentile): $12.00  
+- IQR: $7.00  
+- Lower bound: Q1 - 1.5×IQR = -5.50  
+- Upper bound: Q3 + 1.5×IQR = $22.50
+
+Any fare below $0 or above $22.50 is considered an outlier.
+
+### Insights:
+- Over **XX,000** fare outliers were detected.
+- Most outliers are extremely high fares (some over $400).
+- These were removed to avoid skewing average calculations and visuals.
+
+A box plot was also created to visually inspect the spread and highlight these extreme values.
+
 
 ##  Feature Engineering  
 
