@@ -30,7 +30,8 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 ## 📊 Key Visuals & Insights  
 ## General Dashboard view  
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/dashboard.png?raw=true)
-### 💰 Average Fare by Hour of Day
+### 💰 Average Fare by Hour of Day  
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/avg%20fare%20by%20hr.png?raw=true)
 - Fares spike in early morning and late afternoon
 - Possible surge pricing effects
 
