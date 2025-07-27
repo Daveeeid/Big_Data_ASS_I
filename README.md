@@ -24,6 +24,17 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 - Filtered for reasonable geographic bounds (lat/lon around NYC)
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/descriptive%20stats.jpg?raw=true)
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/result%20of%20stats.jpg?raw=true)
+##  Descriptive Statistics
+
+Using Python, we generated key descriptive statistics to understand the spread and central tendencies of key variables such as fare amounts, trip distance, and passenger count.
+
+- `mean`: Average fare was approximately $10.42
+- `median`: The 50th percentile fare is around $8.00
+- `standard deviation`: $9.52 (high variability)
+- `max fare`: $450 — an outlier worth further inspection
+
+These metrics helped us decide what data to filter and what patterns to explore deeper in Power BI.
+
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/fare%20amount%20distrib%20and%20outlier.jpg?raw=true)
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/outlier%20detect%20result.jpg?raw=true)
 
