@@ -27,7 +27,7 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/fare%20amount%20distrib%20and%20outlier.jpg?raw=true)
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/outlier%20detect%20result.jpg?raw=true)
 
-## 🛠 Feature Engineering  
+##  Feature Engineering  
 
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/new%20columns.jpg?raw=true
 )
