@@ -1,4 +1,6 @@
 # Big_Data_ASS_I
+Names: MUHIRWA David  
+ID:27436, July 2025
 #  Uber Fare Dataset Analysis
 
 ##  Project Overview
@@ -117,5 +119,3 @@ A box plot was also created to visually inspect the spread and highlight these e
 - `screenshots/` folder
 - `README.md` (this file)
 
-## 👨‍💻 Author
-David Muhirwa – AUCA, INSY 8413 – July 2025
