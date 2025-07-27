@@ -36,8 +36,9 @@ Using Python, we generated key descriptive statistics to understand the spread a
 These metrics helped us decide what data to filter and what patterns to explore deeper in Power BI.
 
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/fare%20amount%20distrib%20and%20outlier.jpg?raw=true) 
+### Histogram of Fare Amounts  
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/fare%20amount%20distrib%20results.jpg?raw=true)
-### Histogram of Fare Amounts
+
 
 We plotted a histogram to explore how Uber fares are distributed across the dataset.
 
@@ -46,9 +47,8 @@ We plotted a histogram to explore how Uber fares are distributed across the data
 - Kernel Density Estimate (KDE) helps visualize the overall shape of the distribution
 
 This insight is useful for setting thresholds when identifying outliers and building pricing strategies.
-
-![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/outlier%20detect%20result.jpg?raw=true)  
 ## Outlier Detection
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/outlier%20detect%20result.jpg?raw=true)  
 
 We used the Interquartile Range (IQR) method to detect extreme values in `fare_amount`.
 
