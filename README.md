@@ -24,6 +24,7 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 - Filtered for reasonable geographic bounds (lat/lon around NYC)
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/descriptive%20stats.jpg?raw=true)
 ![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/result%20of%20stats.jpg?raw=true)
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/fare%20amount%20distrib%20and%20outlier.jpg?raw=true)
 
 ## 🛠 Feature Engineering  
 
