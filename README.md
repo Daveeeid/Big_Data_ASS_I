@@ -37,7 +37,8 @@ This project analyzes Uber NYC ride data to uncover fare trends, time-based patt
 - Most rides occur between 4–7 PM
 - Lowest volume between 2–5 AM
 
-### 🔁 Peak vs Off-Peak Ride Share
+### 🔁 Peak vs Off-Peak Ride Share  
+![image alt](https://github.com/Daveeeid/Big_Data_ASS_I/blob/main/ass_screanshots/peak%20vs%20off-peak.png?raw=true)
 - Over 65% of rides occur during peak hours
 
 ### 🔥 Busiest Ride Times Heatmap
